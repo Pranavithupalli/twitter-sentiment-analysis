@@ -29,24 +29,24 @@ README.md # Project documentation
 ```bash
 git clone https://github.com/yourusername/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
-2. Install Dependencies
+## 2. Install Dependencies
 Create a virtual environment (optional but recommended) and install required libraries:
 pip install -r requirements.txt
 pip install pandas numpy matplotlib seaborn nltk scikit-learn textblob
-3. Download Dataset
+## 3. Download Dataset
 Make sure to have a dataset of tweets (Kaggle - Twitter Sentiment Analysis) available. You can replace or use the sample dataset referenced in the notebook.
 
-4. Run the Notebook
+## 4. Run the Notebook
 Launch Jupyter and run the cells step-by-step:
 jupyter notebook Twitter_Sentiment_Analysis.ipynb
-Output
+## Output
 Confusion Matrix
 Accuracy, Precision, Recall, F1 Score
 Word clouds
 Bar plots of sentiment distribution
-Future Improvements
+## Future Improvements
 Integrate with Twitter API for live tweet analysis
 Use deep learning models (e.g., LSTM, BERT)
 Build a web interface using Flask or Streamlit
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
