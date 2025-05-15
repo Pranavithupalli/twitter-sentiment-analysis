@@ -22,14 +22,12 @@ This project performs sentiment analysis on Twitter data using Natural Language 
 Twitter_Sentiment_Analysis.ipynb # Jupyter notebook with full implementation
 README.md # Project documentation
 
-## 🚀 Getting Started
-
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
-## 2.** Install Dependencies**
+## 2.Install Dependencies
 Create a virtual environment (optional but recommended) and install required libraries:
 pip install -r requirements.txt
 pip install pandas numpy matplotlib seaborn nltk scikit-learn textblob
