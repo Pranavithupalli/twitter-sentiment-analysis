@@ -29,7 +29,7 @@ README.md # Project documentation
 ```bash
 git clone https://github.com/yourusername/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
-## 2. Install Dependencies
+## 2.** Install Dependencies**
 Create a virtual environment (optional but recommended) and install required libraries:
 pip install -r requirements.txt
 pip install pandas numpy matplotlib seaborn nltk scikit-learn textblob
